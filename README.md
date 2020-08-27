@@ -23,4 +23,4 @@
 
 # Your edits
 
-Replace this text and add a couple lines of text to introduce yourself and say what you did over the summer.
+I am Cole Bligh, a rising senior. I am a Computer Science major and econ and psychology minors. This past summer I did research at the Rutgers REU DIMACS program, my project was focused on the US COVID-19 response. The first part of my summer was spent collecting data at the national, regional, and state levels to analyze the response at each level. Currently we are working on policy recommendations for reforming the Department of Homeland Security and the national pandemic response infrastructure.
